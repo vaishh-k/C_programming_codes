@@ -7,7 +7,7 @@ int main(){
     float a = pi*r*r;
     float p = 2*pi*r;
 
-    printf("Area of circle is %f \n" ,a,"inches");
-    printf("perimeter of circle is%f\n ", p,"inches");
+    printf("Area of circle is %f inches \n" ,a);
+    printf("perimeter of circle is%f inches\n ", p);
     return 0;
 }
